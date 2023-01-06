@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-*.FASL
+**.FASL
 *.fasl
 *.lisp-temp
 *.dfsl
@@ -16,6 +15,3 @@
 *.sx32fsl
 *.wx64fsl
 *.wx32fsl
-=======
-*.fasl
->>>>>>> f873691 (initial commit)
